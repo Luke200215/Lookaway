@@ -1,2 +1,2 @@
 # Lookaway
-A New Year Animation Porject done using c++.
+A New Year Animation Project done using c++.
